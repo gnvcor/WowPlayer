@@ -1,0 +1,19 @@
+{
+  "tracks":[
+    {
+      "artist": "Alan Walker",
+      "nameTrack": "Faded",
+      "url": "music/audio1.mp3"
+    },
+    {
+      "artist": "Flo Rida",
+      "nameTrack": "Zillionaire",
+      "url": "music/audio2.mp3"
+    },
+    {
+      "artist": "Serebro",
+      "nameTrack": "Я тебя никому не отдам",
+      "url": "music/audio3.mp3"
+    }
+  ]
+}
